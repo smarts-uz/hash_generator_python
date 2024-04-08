@@ -47,4 +47,4 @@ def hash_generator(file_path):
 
 file_paht = r"C:\Users\user\Desktop\hash_generator\simple.txt"
 
-print(hash_generator(file_paht))
+hash_generator(file_paht)
